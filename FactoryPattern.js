@@ -2,6 +2,7 @@ it is a creational pattern .
 factory is just an objct that create or manufacture different object..
 here factory is allowed to handle object createtion in centralized locaation
 it make code look clean
+https://www.freecodecamp.org/news/javascript-design-patterns-explained/#singleton-pattern
 /*
 creating new employ and inserting into database(employee array)
 */
